@@ -68,5 +68,6 @@ Contributions to the Healthcare Appointment Management System are welcome! If yo
 
 This project is licensed under the [MIT License](LICENSE).
 
+[![Run on Repl.it](https://replit.com/badge/github/Moses-main/Sophomore-project)](https://replit.com/new/github/Moses-main/Sophomore-project)
 ---
 
