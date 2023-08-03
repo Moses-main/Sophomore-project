@@ -64,9 +64,6 @@ This application is a simplified example for educational purposes and does not c
 
 Contributions to the Healthcare Appointment Management System are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
+[![Run on Repl.it](https://replit.com/badge/github/Moses-main/Sophomore-project)](https://replit.com/new/github/Moses-main/Sophomore-project)
 ---
 
