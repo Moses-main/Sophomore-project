@@ -22,7 +22,7 @@ The Healthcare Appointment Management System is a console-based application writ
 3. **Run the Application**: Open a terminal or command prompt and navigate to the cloned repository's directory. Run the following command to start the application:
 
    ```bash
-   python Sophomore_project.py
+   python <Project_name>.py
    ```
 
 4. **Follow on-screen Instructions**: Use the console-based menu to interact with the application. Follow the prompts to add doctors, schedule appointments, view appointments, and cancel appointments.
